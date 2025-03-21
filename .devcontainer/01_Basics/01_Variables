@@ -1,0 +1,23 @@
+const pi_Value = 3.142;
+let name = "Akshay";
+var dog = "Appu";
+town = "Bangalore"
+
+console.log(pi_Value);
+console.log(name);
+console.log(dog);
+console.log(town);
+console.log();
+
+
+//Reassigning to a const is not possible pi_Value = 356;
+//var is not useful when it comes to blocks (if, for) so we use let
+name = "Ravi";
+dog = "Maani";
+town = "Pune"
+
+console.log(name);
+console.log(dog);
+console.log(town);
+
+
